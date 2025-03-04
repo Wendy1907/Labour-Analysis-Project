@@ -1,1 +1,2 @@
 # Labour-Analysis-Project
+This project will discover the labour data and trend of Canada in all province from the last 10 years (from 2014 to 2023) to see the change in labour distribution (both in each of the job categories + between regions)+ analyze related trend + predict and see what’s the potential job status (number of job open + salary + average hour of work)
